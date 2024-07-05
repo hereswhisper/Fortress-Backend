@@ -1,0 +1,122 @@
+{
+  "bEnabled": true,
+  "expiration": "2024-06-13T23:00:00.000Z",
+  "storefronts": [
+    {
+      "SectionData": {
+        "SectionName": "Featured",
+        "SectionId": "c6369f1e-cd6c-49f2-92b7-4e25528cc8ed",
+        "RemovalData": "2024-06-13T23:00:00.000Z"
+      },
+      "catalogEntries": [
+        {
+          "RewardId": "461f163b-6cf3-45cf-9e5a-b776f10537f9",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:EID_Stumble",
+              "quantity": 1
+            }
+          ],
+          "Cost": 500,
+          "Violator": {
+            "bShow": true,
+            "Text": "new!"
+          }
+        },
+        {
+          "RewardId": "1a4457bf-826a-4908-9fab-2b2addd196c9",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:EID_RelayStick_Carmine",
+              "quantity": 1
+            }
+          ],
+          "Cost": 500,
+          "Violator": {
+            "bShow": false,
+            "Text": "new!"
+          }
+        },
+        {
+          "RewardId": "1731c357-544b-4921-9f1e-5485bccc37ee",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:Character_BalletAssassin",
+              "quantity": 1
+            }
+          ],
+          "Cost": 1200,
+          "Violator": {
+            "bShow": false,
+            "Text": "new!"
+          }
+        }
+      ]
+    },
+    {
+      "SectionData": {
+        "SectionName": "Daily",
+        "SectionId": "956c23f9-40ad-45cd-b1aa-145f85f59818",
+        "RemovalData": "2024-06-13T23:00:00.000Z"
+      },
+      "catalogEntries": [
+        {
+          "RewardId": "5f4fd028-4b04-46d9-9f5d-a270a0706cd2",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:EID_CycloneHeadBang",
+              "quantity": 1
+            }
+          ],
+          "Cost": 500,
+          "Violator": {
+            "bShow": false,
+            "Text": "new!"
+          }
+        },
+        {
+          "RewardId": "71acf872-086d-40fb-8fe2-f0715f4d99c4",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:EID_Cyclone",
+              "quantity": 1
+            }
+          ],
+          "Cost": 500,
+          "Violator": {
+            "bShow": false,
+            "Text": "new!"
+          }
+        },
+        {
+          "RewardId": "d68c81fb-ccd9-4d05-b6aa-0acbedee620e",
+          "itemGrants": [
+            {
+              "templateId": "AthenaBackpack:BID_005_Pinkbear",
+              "quantity": 1
+            }
+          ],
+          "Cost": 250,
+          "Violator": {
+            "bShow": false,
+            "Text": "new!"
+          }
+        },
+        {
+          "RewardId": "923c8e1c-ab49-43b5-a8a0-53acf9a5665c",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:CID_111_Athena_Commando_Buffet",
+              "quantity": 1
+            }
+          ],
+          "Cost": 1500,
+          "Violator": {
+            "bShow": false,
+            "Text": "new!"
+          }
+        }
+      ]
+    }
+  ]
+}

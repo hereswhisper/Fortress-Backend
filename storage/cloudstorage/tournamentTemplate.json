@@ -1,0 +1,35 @@
+{
+    "bDisplay": true,
+    "TitleName": "V-Bucks Cup",
+    "Description": "Win some v-bucks",
+    "Icon": "393EE849B91E22146CEDA12433EE5F8701721C58.jpg",
+    "Playlist": "AthenaPlaylist:VbucksCup0005129758261",
+    "TournamentDatabaseFetch": "VbucksCup0005129758261",
+    "GameplayInformation": {
+        "MaxGames": 6,
+        "TextDateDisclaimer": "April 1st",
+        "StartTime": "1-23-0-4-2024",
+        "EndTime": "2-01-0-4-2024",
+        "LowestPlacement": 9999999,
+        "Reward": {
+            "RewardType": "VirtualCurrency",
+            "RewardAmount": 1,
+            "Attributes": {
+                "Rewards": [
+                   {
+                        "Placement": 1,
+                        "VirtualCurrencyReward": 13500
+                   },
+                   {
+                        "Placement": 2,
+                        "VirtualCurrencyReward": 8500
+                   },
+                   {
+                        "Placement": 3,
+                        "VirtualCurrencyReward": 4500
+                   }
+                ]
+            }
+        }
+    }
+}

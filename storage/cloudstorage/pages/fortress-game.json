@@ -1,0 +1,639 @@
+{
+  "_title": "Fortress Game",
+  "_activeDate": "2024-05-25T04:22:43.370Z",
+  "_locale": "en-US",
+  "_templateName": "blank",
+  "dynamicbackgrounds": {
+    "backgrounds": {
+      "backgrounds": [
+        {
+          "backgroundimage": "Chapter2Season2LobbyBG.png",
+          "stage": "season200",
+          "_type": "DynamicBackground",
+          "active": true
+        }
+      ],
+      "_type": "DynamicBackgroundList"
+    },
+    "_title": "dynamicbackgrounds",
+    "_noIndex": false,
+    "_activeDate": "2023-11-03T07:30:00.000Z",
+    "lastModified": "2024-05-24T06:21:08.732Z",
+    "_locale": "en-US",
+    "_templateName": "FortressGameDynamicBackgrounds"
+  },
+  "emergencynoticev2": {
+    "_title": "emergencynoticev2",
+    "_noIndex": false,
+    "emergencynotice": {
+      "title": "Bug Fixes.",
+      "message": "We've pushed out a bug fix update. if you didn't already install the 6/19/2024 v2.20.01 patch please close your game and press update. Multiplayer services are also back up and running after this bug fix!"
+    },
+    "_activeDate": "2024-06-19T00:00:00.000Z",
+    "_inactiveDate": "2024-06-20T03:00:00.000Z",
+    "_locale": "en-US",
+    "_templateName": "FortressGameMOTD"
+  },
+  "battleroyalenews": {
+    "news": {
+      "_type": "Battle Royale News",
+      "messages": [
+        {
+          "image": "Eminem-News-Feed.png",
+          "activeSince": "2024-06-26T08:00:00Z",
+          "activeUntil": "2024-06-26T23:00:00Z",
+          "messagetype": "normal",
+          "_type": "CommonUI Simple Message Base",
+          "title": "Eminem",
+          "body": "Define success with Eminiem! Releasing in the item shop 6/26/2024 at 7:00PM EST",
+          "spotlight": false
+        },
+        {
+          "image": "Eminem-News-Feed.png",
+          "activeSince": "2024-06-26T23:00:00Z",
+          "activeUntil": "2024-06-30T23:00:00Z",
+          "messagetype": "normal",
+          "_type": "CommonUI Simple Message Base",
+          "title": "Eminem",
+          "body": "Define success with Eminiem! Now available in the item shop!",
+          "spotlight": false
+        },
+        {
+          "image": "Fortress-FriendsList-2-21-6-25-2024-BlogPost-1920x1080.png",
+          "activeSince": "2024-06-25T08:00:00Z",
+          "activeUntil": "2024-07-02T08:00:00Z",
+          "messagetype": "normal",
+          "_type": "CommonUI Simple Message Base",
+          "title": "Friends List!",
+          "body": "Try out the new friends list! You should totally send a friend request to 'Anker' ;)",
+          "spotlight": false
+        },
+        {
+          "image": "Fortress-DamageNumbers-2-21-6-25-2024-BlogPost.png",
+          "activeSince": "2024-06-25T08:00:00Z",
+          "activeUntil": "2024-07-02T08:00:00Z",
+          "messagetype": "normal",
+          "_type": "CommonUI Simple Message Base",
+          "title": "New damage numbers!",
+          "body": "We've re-designed and re-worked the damage pop-ups!",
+          "spotlight": false
+        },
+        {
+          "image": "Fortress-BattlePass-2-21-6-25-2024-BlogPost.png",
+          "activeSince": "2024-06-25T08:00:00Z",
+          "activeUntil": "2024-07-02T08:00:00Z",
+          "messagetype": "normal",
+          "_type": "CommonUI Simple Message Base",
+          "title": "New battle pass items!",
+          "body": "We've added 5 new battle pass rewards in v2.21!",
+          "spotlight": false
+        }
+      ],
+      "platform_motds": []
+    },
+    "_title": "battleroyalenews",
+    "header": "",
+    "style": "None",
+    "_noIndex": false,
+    "alwaysShow": false,
+    "_activeDate": "2024-05-25T14:00:00.000Z",
+    "_locale": "en-US",
+    "_templateName": "FortressGameMOTD",
+    "_suggestedPrefetch": []
+  },
+  "tournamentinformation": {
+    "eventsData": [
+      {
+        "eventId": "s29_victorycash_solobr",
+        "regions": [
+          "GLOBAL"
+        ],
+        "platforms": [
+          "Windows"
+        ],
+        "displayDataId": "s29_victorycash_solobr",
+        "announcementTime": "2024-03-08T10:00:00Z",
+        "beginTime": "2024-05-23T07:00:00Z",
+        "endTime": "2024-05-26T12:00:00Z",
+        "eventWindows": [
+          {
+            "eventWindowId": "s29_victorycash_solobr_Event1Round1",
+            "metadata": {
+              "RoundType": "Qualifiers"
+            },
+            "beginTime": "2024-05-26T07:00:00Z",
+            "endTime": "2024-05-26T09:00:00Z",
+            "requireAllTokens": [],
+            "requireAnyTokens": [],
+            "requireNoneTokensCaller": [],
+            "associatedEventId": "s29_victorycash_solobr"
+          }
+        ],
+        "tournament_info": {
+          "title_color": "FFFFFF",
+          "loading_screen_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png",
+          "background_text_color": "161616",
+          "background_right_color": "001179",
+          "poster_back_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png",
+          "_type": "Tournament Display Info",
+          "pin_earned_text": "Winner!",
+          "tournament_display_id": "s30_playstation_br",
+          "highlight_color": "F7FF00",
+          "schedule_info": "June 1, June 8, June 15",
+          "primary_color": "FFFFFF",
+          "flavor_description": "Compete against other PlayStation players in Battle Royale for an opportunity to earn a cash prize!",
+          "poster_front_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png",
+          "short_format_title": "Solo Tournament",
+          "title_line_2": "Battle Royale",
+          "title_line_1": "PlayStation Cup",
+          "shadow_color": "161616",
+          "details_description": "You must reach Bronze in Ranked Battle Royale to unlock this tournament. This event occurs across multiple stages. There will be 2 Qualifiers for Battle Royale. The top 50 players at the end of each Battle Royale Qualifier will advance to the Battle Royale Finals. Players must be at least 13 years old (or such other age, if greater, as may be required in their country of residence), have MFA enabled and an account level of 15 or greater. For more details see: https://www.epicgames.com/fortnite/competitive/rules-library",
+          "background_left_color": "00A9D3",
+          "long_format_title": "PlayStation Cup - Battle Royale",
+          "poster_fade_color": "0299BE",
+          "secondary_color": "161616",
+          "playlist_tile_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png",
+          "base_color": "FFFFFF"
+        },
+        "cmsData": {
+          "title_line_1": "Solo",
+          "title_line_2": "Victory Cup",
+          "details_description": "Unlock this tournament by playing Ranked Battle Royale. You must be in Gold or higher in Battle Royale to unlock this tournament. This tournament occurs across two rounds, with the top players from Round 1 advancing to Round 2. EU - Top 11,500; NA: Top 9,000, BR, ASIA, ME - Top 1,250; OCE - Top 750. Players will win cash prizes for achieving a Victory Royale in Round 2. There will be no other placement prizes. Players must be at least 13 years old (or such other age, if greater, as may be required in their country of residence), have MFA enabled and an account level of 15 or greater. For more details see: www.epicgames.com/fortnite/competitive/news.",
+          "poster_front_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png"
+        }
+      }
+    ]
+  },
+  "battleroyalequests": {
+    "questSections": [
+      {
+        "SectionId": "326091c8-0f9d-435e-889c-42085b9504c9",
+        "SectionName": "Weekly",
+        "Subheader": "Weekly Quests",
+        "cmsData": {
+          "image": "T_UI_Juno_QuestCat_Weekly.png",
+          "RGB1": {
+            "R": 0.005742,
+            "G": 0.024491,
+            "B": 0.220486,
+            "A": 1
+          },
+          "RGB2": {
+            "R": 0,
+            "G": 0.799103,
+            "B": 0.871367,
+            "A": 1
+          }
+        },
+        "quests": [
+          {
+            "questId": "7a9530b9-641c-4108-b5ec-66e54cc1df75",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 8,
+            "questName": "Eliminate 8 players",
+            "flavorText": "Eliinate 8 players to earn 25k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 25000,
+              "display": "25K"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "af4d6d13-c9d4-4b6e-a51e-1c5cedec0698",
+            "completionTag": "athena.quest.chest.open",
+            "QuestCount": 15,
+            "questName": "Open 15 chests",
+            "flavorText": "Open 15 chests and earn 50,000 XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 50000,
+              "display": "50k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "5536c62d-2c96-4e97-b5cb-b579cfa2cd43",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 25,
+            "questName": "Eliminate 25 players",
+            "flavorText": "Eliminate 25 players for 45k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 45000,
+              "display": "45k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "491a8430-f805-40ea-90d0-fcfdfee46eed",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 50,
+            "questName": "Eliminate 50 players",
+            "flavorText": "Eliminate 50 players for 100k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 100000,
+              "display": "100k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "a3c0c868-5e23-4e1f-af34-5015def503e7",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 100,
+            "questName": "Eliminate 100 players",
+            "flavorText": "Eliminate 100 players for 100k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 100000,
+              "display": "200k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "f6b72aa7-e680-4ae0-b682-048daafd6146",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 150,
+            "questName": "Eliminate 150 players",
+            "flavorText": "Eliminate 150 players for 100k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 250000,
+              "display": "250k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "5c0573e2-87b1-41a2-b4f2-bca4f97c6723",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 50,
+            "questName": "Eliminate 200 players",
+            "flavorText": "Eliminate 200 players for 100k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 100000,
+              "display": "100k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "0c3d42d0-45da-435c-89e7-604433257bdd",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 50,
+            "questName": "Eliminate 250 players",
+            "flavorText": "Eliminate 250 players for 100k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 100000,
+              "display": "100k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "5c05628a-594b-4b8d-aa45-1d262998ae5d",
+            "completionTag": "Athena.Quest.Kill",
+            "QuestCount": 50,
+            "questName": "Eliminate 300 players",
+            "flavorText": "Eliminate 300 players for 100k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 100000,
+              "display": "100k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          },
+          {
+            "questId": "5c6386ae-b8b3-4a4b-b864-4a04c18f1249",
+            "completionTag": "Athena.Quest.VictoryRoyale",
+            "QuestCount": 20,
+            "questName": "Win 20 matches",
+            "flavorText": "Win 20 matches to earn 75k XP!",
+            "type": "experience",
+            "reward": {
+              "xp": 75000,
+              "display": "75k"
+            },
+            "cmsData": {
+              "questImage": "T_UI_FNBR_XPeverywhere_S.png"
+            }
+          }
+        ]
+      }
+    ],
+    "_title": "battleroyalequests",
+    "header": "",
+    "style": "None",
+    "_noIndex": false,
+    "alwaysShow": false,
+    "_activeDate": "2024-05-29T14:00:00.000Z",
+    "_locale": "en-US",
+    "_templateName": "FortressGameMOTD",
+    "_suggestedPrefetch": []
+  },
+  "FortressBlogData": {
+    "blogList": [
+      {
+        "gridTitle": "Fortress v2.21: Bug Fixes, Additions, And performance updates.",
+        "trending": false,
+        "noTopImage": false,
+        "redirect": {
+          "code": "301",
+          "_type": "Diesel Redirect"
+        },
+        "image": "http://us1.bot-hosting.net:20107/cdn/community-battles-formats-blogthumb-576x576-3510f57bb373.png",
+        "contentTypeSticky": false,
+        "author": "The Fortress Team",
+        "enableLightbox": false,
+        "_type": "Common Post",
+        "shareImage": "http://us1.bot-hosting.net:20107/cdn/community-battles-formats-blogheader-1900x600-1900x600-2aae78d95f24.png",
+        "hasSocialWidget": false,
+        "title": "Fortress v2.21: Bug Fixes, Additions, And performance updates.",
+        "content": "<p><strong>Hey Players!</strong></p><p>The <strong>v2.21</strong> update has released!. Get ready for some amazing new features and improvements that will make your gameplay experience even better!</p><br/><br/><h2>Friends List!</h2><p>Introducing our brand new Friends List! You can now add friends, send, receive, and decline friend requests.</p>   <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Fortress-FriendsList-2-21-6-25-2024-BlogPost.png\" style=\"height:auto; width:auto\" />\n\n       <br/><br/><h2>Summer Fun!</h2><p>Dive into the summer with our sizzling new cosmetic items, launching on 6/25/2024 at 6:00PM CST. Make sure to grab these limited-time goodies and show off your style in-game!</p><br/><br/><h2>Lag and Performance Fixes</h2><p>Say goodbye to lag! We've addressed major performance issues, and you should now be able to enjoy 60+ FPS on all Epic settings in the late game mode. This has been tested on a 1080TI GPU, so get ready for a smoother, more immersive experience!</p><br/><br/><h2>Battle Pass Bonus Rewards</h2><p>We've added more rewards to the battle pass (bonus rewards)! Check them out in-game!</p>  <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Fortress-BattlePass-2-21-6-25-2024-BlogPost.png\" style=\"height:auto; width:auto\" />\n\n   <br/><br/>  <h2>Damage Text Improvements</h2><p>We've re-designed and re-worked the damage pop-up text, It now is visible from distances & has a brand new animation. (more accurate to c1/c2/stw). Images below.</p>        <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Fortress-DamageNumbers-2-21-6-25-2024-BlogPost.png\" style=\"height:auto; width:auto\" />\n\n <br/><br/>   <p>Stay tuned for more updates, and we'll see you in the game!</p><p><strong>The Fortress Team</strong></p>",
+        "trendingImage": "http://us1.bot-hosting.net:20107/cdn/community-battles-formats-blogheader-1900x600-1900x600-2aae78d95f24.png",
+        "cat": "battle-royale",
+        "sticky": false,
+        "socialWidget": {
+          "cta": {
+            "_type": "Rift Tour CTA",
+            "theme": {
+              "_type": "Rift Tour CTA Theme"
+            }
+          },
+          "_type": "Standalone Social Widget",
+          "dateColor": "white"
+        },
+        "featured": false,
+        "date": "2024-06-25T19:59:00.000Z",
+        "link": "01e78745-f8e3-4812-8c68-093cdc2ef4e3",
+        "_id": "01e78745-f8e3-4812-8c68-093cdc2ef4e3",
+        "pageMapping": "01e78745-f8e3-4812-8c68-093cdc2ef4e3",
+        "slug": "fortress-v2-21-bug-fixes-additions-and-performance-updates",
+        "urlPattern": "blog?slug=fortress-v2-21-bug-fixes-additions-and-performance-updates",
+        "locale": "en-US",
+        "noIndex": false,
+        "_script": "undefined",
+        "category": [
+          "battle-royale"
+        ],
+        "tags": [],
+        "catLocaleMap": {}
+      },
+      {
+        "gridTitle": "Upcoming v2.21 Update: What to expect!",
+        "trending": false,
+        "noTopImage": false,
+        "redirect": {
+          "code": "301",
+          "_type": "Diesel Redirect"
+        },
+        "image": "http://us1.bot-hosting.net:20107/cdn/Fortnite-blog-arabic-language-support-is-here-08BR_ArabicLangLaunch_NewsThumbnail-576x576-dcc17f91c2cb2f784fd1084fc88d286054b71c7d.jpg",
+        "contentTypeSticky": false,
+        "author": "The Fortress Team",
+        "enableLightbox": false,
+        "_type": "Common Post",
+        "shareImage": "http://us1.bot-hosting.net:20107/cdn/Fortnite-blog-arabic-language-support-is-here-08BR_ArabicLangLaunch_NewsHeader-1920x1080-1efe03101290798fe924b97e900a436025b594a9.jpg",
+        "hasSocialWidget": false,
+        "title": "Upcoming v2.21 Update: What to expect!",
+        "content": "<p><strong>Hey Players!</strong></p><p>We've got some exciting news for you in our upcoming <strong>v2.21</strong> update, releasing on <strong>6/25/2024</strong>. Get ready for some amazing new features and improvements that will make your gameplay experience even better!</p><br/><br/><h2>Friends List!</h2><p>Introducing our brand new Friends List! You can now add friends, send, receive, and decline friend requests. Connect with your squad and dominate the battlefield together!</p><br/><br/><h2>Summer Fun!</h2><p>Dive into the summer with our sizzling new cosmetic items, launching on 6/25/2024 at 6:00PM CST. Make sure to grab these limited-time goodies and show off your style in-game!</p><br/><br/><h2>Lag and Performance Fixes</h2><p>Say goodbye to lag! We've addressed major performance issues, and you should now be able to enjoy 60+ FPS on all Epic settings in the late game mode. This has been tested on a 1080TI GPU, so get ready for a smoother, more immersive experience!</p><br/><br/><h2>Battle Pass Bonus Rewards</h2><p>We've added more rewards to the battle pass (bonus rewards)! Check them out in-game!</p><br/><br/><p>Stay tuned for more updates, and we'll see you in the game!</p><p><strong>The Fortress Team</strong></p>",
+        "trendingImage": "http://us1.bot-hosting.net:20107/cdn/Fortnite-blog-arabic-language-support-is-here-08BR_ArabicLangLaunch_NewsHeader-1920x1080-1efe03101290798fe924b97e900a436025b594a9.jpg",
+        "cat": "battle-royale",
+        "sticky": false,
+        "socialWidget": {
+          "cta": {
+            "_type": "Rift Tour CTA",
+            "theme": {
+              "_type": "Rift Tour CTA Theme"
+            }
+          },
+          "_type": "Standalone Social Widget",
+          "dateColor": "white"
+        },
+        "featured": false,
+        "date": "2024-06-22T19:59:00.000Z",
+        "link": "f47dee1a-3531-41f6-ab0d-40dc452eaf7c",
+        "_id": "f47dee1a-3531-41f6-ab0d-40dc452eaf7c",
+        "pageMapping": "f47dee1a-3531-41f6-ab0d-40dc452eaf7c",
+        "slug": "upcoming-v2.21-update--what-to-expect",
+        "urlPattern": "blog?slug=upcoming-v2.21-update--what-to-expect",
+        "locale": "en-US",
+        "noIndex": false,
+        "_script": "undefined",
+        "category": [
+          "battle-royale"
+        ],
+        "tags": [],
+        "catLocaleMap": {}
+      },
+      {
+        "gridTitle": "Upcoming v2.21 Update: Enhanced Performance and Lag Fixes",
+        "trending": false,
+        "noTopImage": false,
+        "redirect": {
+          "code": "301",
+          "_type": "Diesel Redirect"
+        },
+        "image": "http://us1.bot-hosting.net:20107/cdn/Fortnite-blog-sea-servers---sub-region-matchmaking-BR06_News_Thumbnail_1_1_Support-A-Creator-576x576-2bf51c5dc50dce5a8843b34.jpg",
+        "contentTypeSticky": false,
+        "author": "The Fortress Team",
+        "enableLightbox": false,
+        "_type": "Common Post",
+        "shareImage": "http://us1.bot-hosting.net:20107/cdn/Fortnite-blog-sea-servers---sub-region-matchmaking-BR06_News_Featured_16_9_Support-A-Creator-1920x1080-e7aa714b8654dac86881d5d30e75993ed937c463.jpg",
+        "hasSocialWidget": false,
+        "title": "Upcoming v2.21 Update: Enhanced Performance and Lag Fixes",
+        "content": "\n\n<p><strong>Players</strong>, <br/> We're aware of performance issues. We've tracked down the root cause to a massive lag issue. Your gameplay should feel smoother in our upcoming <strong>v2.21</strong> update, Releasing on <strong>6/25/2024</strong>.\n\n\n\n",
+        "trendingImage": "http://us1.bot-hosting.net:20107/cdn/Fortnite-blog-sea-servers---sub-region-matchmaking-BR06_News_Featured_16_9_Support-A-Creator-1920x1080-e7aa714b8654dac86881d5d30e75993ed937c463.jpg",
+        "cat": "battle-royale",
+        "sticky": false,
+        "socialWidget": {
+          "cta": {
+            "_type": "Rift Tour CTA",
+            "theme": {
+              "_type": "Rift Tour CTA Theme"
+            }
+          },
+          "_type": "Standalone Social Widget",
+          "dateColor": "white"
+        },
+        "featured": false,
+        "date": "2024-06-22T19:59:00.000Z",
+        "link": "f47dee1a-3531-41f6-ab0d-40dc452eaf7c",
+        "_id": "f47dee1a-3531-41f6-ab0d-40dc452eaf7c",
+        "pageMapping": "f47dee1a-3531-41f6-ab0d-40dc452eaf7c",
+        "slug": "upcoming-v2.21-update--enhanced-performance-and-lag-fixes",
+        "urlPattern": "blog?slug=upcoming-v2.21-update--enhanced-performance-and-lag-fixes",
+        "locale": "en-US",
+        "noIndex": false,
+        "_script": "undefined",
+        "category": [
+          "battle-royale"
+        ],
+        "tags": [],
+        "catLocaleMap": {}
+      },
+      {
+        "gridTitle": "Season 2, Week 2 Quests!",
+        "trending": false,
+        "noTopImage": false,
+        "redirect": {
+          "code": "301",
+          "_type": "Diesel Redirect"
+        },
+        "image": "http://us1.bot-hosting.net:20107/cdn/s18-evergreens-green-thumb-576x576-97d3b0efc0f6.png",
+        "contentTypeSticky": false,
+        "author": "The Fortress Team",
+        "enableLightbox": false,
+        "_type": "Common Post",
+        "shareImage": "http://us1.bot-hosting.net:20107/cdn/s18-evergreens-green-blogheader-1900x600-2fe6aaded3f8.png",
+        "hasSocialWidget": false,
+        "title": "Season 2, Week 2 Quests!",
+        "content": "\n\n<p><strong>Week 2</strong> brings brand new quests, Check out all of them! \n <br /><br />         <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/8F2AY8SG1JHKUAB6F8H4GF6S9JGDHDGI76HJH38DJ.PNG\" style=\"height:auto; width:auto\" />\n\n\n\n",
+        "trendingImage": "http://us1.bot-hosting.net:20107/cdn/s18-evergreens-green-blogheader-1900x600-2fe6aaded3f8.png",
+        "cat": "battle-royale",
+        "sticky": false,
+        "socialWidget": {
+          "cta": {
+            "_type": "Rift Tour CTA",
+            "theme": {
+              "_type": "Rift Tour CTA Theme"
+            }
+          },
+          "_type": "Standalone Social Widget",
+          "dateColor": "white"
+        },
+        "featured": false,
+        "date": "2024-06-18T19:59:00.000Z",
+        "link": "6ef94a90-ae53-4f88-923b-d9b43f47caa6",
+        "_id": "6ef94a90-ae53-4f88-923b-d9b43f47caa6",
+        "pageMapping": "6ef94a90-ae53-4f88-923b-d9b43f47caa6",
+        "slug": "v2-20-week2-quests-update",
+        "urlPattern": "blog?slug=v2-20-week2-quests-update",
+        "locale": "en-US",
+        "noIndex": false,
+        "_script": "undefined",
+        "category": [
+          "battle-royale"
+        ],
+        "tags": [],
+        "catLocaleMap": {}
+      },
+      {
+        "gridTitle": "Fortress v2.20: New Cosmetics, Features, and Items!",
+        "trending": false,
+        "noTopImage": false,
+        "redirect": {
+          "code": "301",
+          "_type": "Diesel Redirect"
+        },
+        "image": "http://us1.bot-hosting.net:20107/cdn/13br-evergreens-purpink-newsthumb2-576x576-339416134.jpg",
+        "contentTypeSticky": false,
+        "author": "The Fortress Team",
+        "enableLightbox": false,
+        "_type": "Common Post",
+        "shareImage": "http://us1.bot-hosting.net:20107/cdn/13br-evergreens-purpink-newsheader-1920x1080-916617095.jpg",
+        "hasSocialWidget": false,
+        "title": "Fortress v2.20: New Cosmetics, Features, and Items!",
+        "content": "<h2><br />\n               New Cosmetics!\n            </h2>\n  <br />\n       <p><strong>v2.20</strong> brings many new cosmetics, Check out all of them! \n  <p><strong>MrBeast</strong> has joined the Fortress island, Check him out in the item shop starting on <strong>June 20th 2024 at 6:00PM CST</strong>!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_Character_Lettuce_News.png\" style=\"height:auto; width:auto\" />\n   <p style=\"text-align:center\"><em>MrBeast's Default Style.</em></p> \n\n      </p>\n\n   <p><strong>Leilt Elomr</strong> is now in Fortress! Get it in the item shop on <strong>June 21st 2024 at 6:00PM CST</strong> \n   </br></br>      <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_EID_MyEffort_News.png\" style=\"height:auto; width:auto\" />\n\n   </br></br>    </p>\n\n  <p><strong>Droop</strong> has joined the Fortress island, Check it out in the item shop starting on <strong>June 22nd 2024 at 6:00PM CST</strong>!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_EID_CrazyDance_News.png\" style=\"height:auto; width:auto\" /> \n\n   </br></br>    </p>\n\n  <p><strong>Groove Destroyer</strong> has been added to Fortress!, Check it out in the item shop starting on <strong>June 23rd 2024 at 6:00PM CST</strong>!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_EID_Reverie_News.png\" style=\"height:auto; width:auto\" /> \n\n   </br></br>    </p>\n\n  <p><strong>Kirk Hammett</strong> has been added to Fortress!, Check it out in the battle pass!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_Character_PlasticFork_News.png\" style=\"height:auto; width:auto\" /> \n\n   </br></br>    </p>\n\n  <p><strong>James Hetfield</strong> has been added to Fortress!, Check it out in the battle pass!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_Character_GreatPool_News.png\" style=\"height:auto; width:auto\" /> \n\n   </br></br>    </p>\n\n  <p><strong>Lars Ulrich</strong> has been added to Fortress!, Check it out in the battle pass!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_Character_CrowCall_News.png\" style=\"height:auto; width:auto\" /> \n\n   </br></br>    </p>\n\n  <p><strong>Robert Trujillo</strong> has been added to Fortress!, Check it out in the battle pass!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/Athena_Character_CorkFloor_News.png\" style=\"height:auto; width:auto\" /> \n\n   </br></br>    </p>\n\n      <h2><br />\n         Performance Improvements\n      </h2>\n   <p>We've taken a look at performance and did some performance traces on our end in the editor, We seem to have found some root causes to hitches and crashes. Some of the hitches and crashes should be fixed in our new <strong>v2.20</strong> update :)\n      </p>   <h2>      <h2><br />         Battle Pass!\n      </h2>\n    </p>  <p>v2.20 adds the season 2 battle pass, unlock rewards by leveling up and then claiming them in the battle pass tab!</p>   </br>           <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/2F2AY8SG1JHKUAB6F8H4GF6S9JGDHDGI76HJH38DJ.PNG\" style=\"height:auto; width:auto\" /> \n\n   </br></br>    </p>\n",
+        "trendingImage": "http://us1.bot-hosting.net:20107/cdn/13br-evergreens-purpink-newsheader-1920x1080-916617095.jpg",
+        "cat": "battle-royale",
+        "sticky": false,
+        "socialWidget": {
+          "cta": {
+            "_type": "Rift Tour CTA",
+            "theme": {
+              "_type": "Rift Tour CTA Theme"
+            }
+          },
+          "_type": "Standalone Social Widget",
+          "dateColor": "white"
+        },
+        "featured": false,
+        "date": "2024-06-18T19:59:00.000Z",
+        "link": "6ef94a90-ae53-4f88-923b-d9b43f47caa6",
+        "_id": "6ef94a90-ae53-4f88-923b-d9b43f47caa6",
+        "pageMapping": "6ef94a90-ae53-4f88-923b-d9b43f47caa6",
+        "slug": "fortress-v2-20-update",
+        "urlPattern": "blog?slug=fortress-v2-20-update",
+        "locale": "en-US",
+        "noIndex": false,
+        "_script": "undefined",
+        "category": [
+          "battle-royale"
+        ],
+        "tags": [],
+        "catLocaleMap": {}
+      },
+      {
+        "gridTitle": "Fortress v2.10 Update: Improvements and additions!",
+        "trending": false,
+        "noTopImage": false,
+        "redirect": {
+          "code": "301",
+          "_type": "Diesel Redirect"
+        },
+        "image": "http://us1.bot-hosting.net:20107/cdn/Fortniteblogmicrosoft-directx-12-coming-to-fortnite11BR_Evergreens_Blue_NewsHeader-1920x1080-77ade2f5f2bc0312b4978dcd7639adfe00211fe6.jpg",
+        "contentTypeSticky": false,
+        "author": "The Fortress Team",
+        "enableLightbox": false,
+        "_type": "Common Post",
+        "shareImage": "http://us1.bot-hosting.net:20107/cdn/Fortniteblogmicrosoft-directx-12-coming-to-fortnite11BR_Evergreens_Blue_NewsHeader-1920x1080-77ade2f5f2bc0312b4978dcd7639adfe00211fe6.jpg",
+        "hasSocialWidget": false,
+        "title": "Fortress v2.10 Update: Improvements and additions!",
+        "content": "<h2><br />\n               Map Changes\n            </h2>\n         <p>v2.10 brings many map changes, enjoy the re-designed late game map! \n            <br />\n            <br />\n            <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/d4b4c3_b4c8d03993474ddbac18e05342002941~mv2.png\" style=\"height:auto; width:auto\" />\n         </p>\n\n         <h2><br />\n            Quests\n         </h2>\n      <p>Starting in v2.10 you can complete quests for rewards such as XP, v-bucks, and/or cosmetics! \n         <br />\n         <br />\n         <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/d4b4c3_8390a8cdd2b44162897320ad919b2907~mv2.png\" style=\"height:auto; width:auto\" />\n      </p>\n\n      <h2><br />\n         Item shop re-design!\n      </h2>\n   <p>We've re-designed the item shop! Take a look in-game or take a peek at the image below!\n      <br />\n      <br />\n      <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/d4b4c3_1e4c38b4de88414989c9a1a13d3ea2e2~mv2.png\" style=\"height:auto; width:auto\" />\n   </p>\n\n   <h2><br />\n      Bundles!\n   </h2>\n   <p>With the v2.10 item shop re-work we've added the ability to have bundles, exactly like how they are in Fortnite, Prices reduce based on owned cosmetics in the bundle. by default bundles are at a discount!\n   <br />\n   <br />\n   <img alt=\"\" src=\"http://us1.bot-hosting.net:20107/cdn/d4b4c3_1e4c38b4de88414989c9a1a13d3ea2e2~mv2.png\" style=\"height:auto; width:auto\" />\n   </p>",
+        "trendingImage": "http://us1.bot-hosting.net:20107/cdn/Fortniteblogmicrosoft-directx-12-coming-to-fortnite11BR_Evergreens_Blue_NewsHeader-1920x1080-77ade2f5f2bc0312b4978dcd7639adfe00211fe6.jpg",
+        "cat": "battle-royale",
+        "sticky": false,
+        "socialWidget": {
+          "cta": {
+            "_type": "Rift Tour CTA",
+            "theme": {
+              "_type": "Rift Tour CTA Theme"
+            }
+          },
+          "_type": "Standalone Social Widget",
+          "dateColor": "white"
+        },
+        "featured": false,
+        "date": "2024-06-04T19:59:00.000Z",
+        "link": "de39f5b0-91c1-4874-a017-abb11dbd027c",
+        "_id": "de39f5b0-91c1-4874-a017-abb11dbd027c",
+        "pageMapping": "de39f5b0-91c1-4874-a017-abb11dbd027c",
+        "slug": "fortress-v2-10-update",
+        "urlPattern": "blog?slug=fortress-v2-10-update",
+        "locale": "en-US",
+        "noIndex": false,
+        "_script": "undefined",
+        "category": [
+          "battle-royale"
+        ],
+        "tags": [],
+        "catLocaleMap": {}
+      }
+    ],
+    "blogTotal": 6
+  },
+  "ServerIntegrity": {
+    "AC_Hashes": [
+      "2a062ea10ddb821dd2972ff02f8f77d41e604fe0",
+      ""
+    ]
+  }
+}

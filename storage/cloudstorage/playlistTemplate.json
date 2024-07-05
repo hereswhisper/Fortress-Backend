@@ -1,0 +1,16 @@
+
+{
+    "PlaylistImage": "2V2AY8SG1JHKUAB6F8H4GF6S9JGDHDGI76HJH38DP.png",
+    "DefaultLevel": "GrassyTestBed",
+    "DefaultGameMode": "B_PartyRoyale_Competitive",
+    "MaxPlayers": 25,
+    "UIDisplayName": "V-Bucks Cup",
+    "UIDescription": "First Fortress cup for the following rewards: 1st place = 13,500 v-bucks ( in Fortress ), 2nd place = 8,500 v-bucks ( in Fortress ), 3rd plce = 4,500 v-bucks ( in Fortress )",
+    "PlaylistIdentifier": "AthenaPlaylist:VbucksCup0005129758261",
+    "bCompetitive": true, // FALSE IF NOT COMPETITIVE
+    "attributes": {
+        "TournamentDatabaseFetch": "VbucksCup0005129758261"  // ONLY USE IF COMPETITIVE
+    },
+    "bRewardsTrackPlacement": false,
+    "bRewardsAllowXPProgression": false
+}

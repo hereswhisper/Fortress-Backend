@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin Panel</title>
+<style>
+    body {
+        background-color: #222;
+        color: #fff;
+        font-family: Arial, sans-serif;
+        padding: 20px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    #activeConnections {
+        color: #ccc;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    #searchContainer {
+        margin-bottom: 20px;
+    }
+
+    .searchBox {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 25px;
+        padding: 8px 16px;
+        margin-right: 10px;
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+    }
+
+    .searchBox:focus {
+        outline: none;
+    }
+
+    .searchButton {
+        background-color: #ff4d4d;
+        color: #fff;
+        border: none;
+        border-radius: 25px;
+        padding: 8px 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+    }
+
+    .searchButton:hover {
+        background-color: #cc3333;
+        transform: scale(1.1);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        filter: brightness(90%);
+    }
+
+    .searchButton:focus {
+        outline: none;
+    }
+
+    .searchButton:disabled {
+        background-color: #999;
+        cursor: not-allowed;
+    }
+
+    #playerList {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .playerItem {
+        background-color: #333;
+        border-radius: 10px;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    .playerItem span {
+        color: #fff;
+    }
+
+    .killButton {
+        background-color: #ff4d4d;
+        color: #fff;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        margin-top: 10px;
+    }
+
+    .killButton:hover {
+        background-color: #cc3333;
+        transform: scale(1.1);
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        filter: brightness(90%);
+    }
+
+    .killButton:focus {
+        outline: none;
+    }
+
+    .killButton:disabled {
+        background-color: #999;
+        cursor: not-allowed;
+    }
+</style>
+</head>
+<body>
+    <h1>Admin Panel</h1>
+
+    <div id="activeConnections">Active Connections: <span id="activeConnectionsCount">0</span></div>
+
+    <button id="disconnectAllButton" class="killButton">Disconnect All Players</button>
+    <br/><br/>
+    <div id="searchContainer">
+        <input type="text" id="searchBox" class="searchBox" placeholder="Search by Account ID or Name">
+        <button id="searchButton" class="searchButton">Search</button>
+    </div>
+
+
+    <ul id="playerList"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>

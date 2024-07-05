@@ -1,0 +1,176 @@
+{
+  "PrimaryAssetIdOverrides": [
+    {
+      "Old": "AthenaCharacter:CID_006_Athena_Commando_F",
+      "New": "AthenaCharacter:CID_028_Athena_Commando_F"
+    },
+    {
+      "Old": "AthenaCharacter:Character_SypherPK",
+      "New": "AthenaCharacter:Character_Headset"
+    }
+  ],
+  "AssetPathRedirects": [],
+  "HotAirBalloon": "/Game/Athena/Aircraft/Skins/B_BattleBus_WorldCup.B_BattleBus_WorldCup_C",
+  "bEnableKairosKicks": false,
+  "KairosIgnoreCosmetics": [
+    "AthenaCharacter:CID_001_Athena_Commando_F_Default",
+    "AthenaCharacter:CID_002_Athena_Commando_F_Default",
+    "AthenaCharacter:CID_003_Athena_Commando_F_Default",
+    "AthenaCharacter:CID_004_Athena_Commando_F_Default",
+    "AthenaCharacter:CID_005_Athena_Commando_M_Default",
+    "AthenaCharacter:CID_Empty"
+  ],
+  "LocalTestingIP": "192.168.1.197",
+  "UsernamesForLocalTesting": [
+    "vowp",
+    "Editor"
+  ],
+  "bIsSingleplayer": true,
+  "bIsMatchmakingEnabled": true,
+  "LevelConfiguration": {
+    "DefaultMap": ""
+  },
+  "DefaultPlaylist": "AthenaPlaylist:ApolloLateGame_001",
+  "bOverridePlaylist": true,
+  "LiveDynamicPaks": [],
+  "DynamicTabs": {
+    "Enabled": [],
+    "Disabled": []
+  },
+  "DynamicPlaylists": [
+    {
+      "PlaylistImage": "fortnite-lategame.jpg",
+      "DefaultLevel": "Apollo_LateGame",
+      "DefaultGameMode": "B_LateGame",
+      "MaxPlayers": 25,
+      "UIDisplayName": "Late Game",
+      "UIDescription": "25 Players fight to be the last one standing!",
+      "PlaylistIdentifier": "AthenaPlaylist:ApolloLateGame_001",
+      "bCompetitive": false,
+      "bRewardsTrackPlacement": false,
+      "bRewardsAllowXPProgression": false,
+      "bPlayerRespawns": false,
+      "bMultiplayer": false
+    },
+    {
+      "PlaylistImage": "fortnite-lategame.jpg",
+      "DefaultLevel": "Apollo_LateGame",
+      "DefaultGameMode": "B_LateGame",
+      "MaxPlayers": 25,
+      "UIDisplayName": "Late Game (MP)",
+      "UIDescription": "25 Players fight to be the last one standing!",
+      "PlaylistIdentifier": "AthenaPlaylist:ApolloLateGame_001_MP",
+      "bCompetitive": false,
+      "bRewardsTrackPlacement": false,
+      "bRewardsAllowXPProgression": false,
+      "bPlayerRespawns": false,
+      "bMultiplayer": true
+    }
+  ],
+  "FallbackPlaylist": {
+    "PlaylistImage": "fortnite-lategame.jpg",
+    "DefaultLevel": "Apollo_LateGame",
+    "DefaultGameMode": "B_LateGame",
+    "MaxPlayers": 25,
+    "UIDisplayName": "Late Game",
+    "UIDescription": "25 Players fight to be the last one standing!",
+    "PlaylistIdentifier": "AthenaPlaylist:ApolloLateGame_001_MP",
+    "bCompetitive": false,
+    "bRewardsTrackPlacement": false,
+    "bRewardsAllowXPProgression": false,
+    "bPlayerRespawns": false,
+    "bMultiplayer": false
+  },
+  "BattlePass": {
+    "BattlePassIdentifier": "AthenaBattlePass:BattlePass_S2",
+    "Rewards": [
+      {
+        "Reward": "AthenaCharacter:CID_139_Athena_Commando_M_Default"
+      },
+      {
+        "Reward": "AthenaDance:EID_BestMates"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_141_Athena_Commando_M_ProgressiveJonesy"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_CrowCall"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_055_Athena_Commando_M_Lateral"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_PlasticFork"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_BalletAssassin"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_120_Athena_Commando_M_SkippingClouds"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_Dummy_FNCS"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_123_Athena_Commando_F_Disco"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_CorkFloor"
+      },
+      {
+        "Reward": "AthenaDance:EID_TakeTheL"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_136_Athena_Commando_F_FuzzyBear"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_107_Athena_Commando_F"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_RenegadeRaiderHoliday"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_109_Athena_Commando_F_ChOneBanshee"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_124_Athena_Commando_F_Temple"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_ShiverFlame_Ace"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_110_Athena_Commando_F_Shiny"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_029_Athena_Commando_F_Halloween"
+      },
+      {
+        "Reward": "AthenaDance:EID_LittleEgg_69OX0"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_135_Athena_Commando_M_Banana"
+      },
+      {
+        "Reward": "AthenaCharacter:Character_GreatPool"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_116_Athena_Commando_F_RoseDust"
+      },
+      {
+        "Reward": "AthenaCharacter:CID_115_Athena_Commando_M_FearlessFlightHero"
+      }
+    ]
+  },
+  "ErrorHandler": {
+    "Titles": [
+      "A PROBLEM OCCURRED",
+      "WE HIT A ROADBLOCK",
+      "THERE WAS A PROBLEM",
+      "THERE WAS AN ERROR",
+      "NOT THE LLAMA YOU'RE LOOKING FOR",
+      "THAT WASN'T SUPPOSED TO HAPPEN",
+      "DRAT! WE'RE SORRY",
+      "UH OH! SOMETHING GOOFED"
+    ]
+  }
+}

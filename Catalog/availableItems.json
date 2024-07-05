@@ -1,0 +1,540 @@
+[
+  {
+    "SectionData": {
+      "SectionName": "Stranger Things",
+      "SectionId": "2fc135a3-d514-460d-8010-56f59432188e"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "29bb6660-9336-4010-b29e-9f48b8f1d84a",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_127_Athena_Commando_F_GroovyReader",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Midas",
+      "SectionId": "1b861e3d-f5d5-42e4-a751-bab7586062ac"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "0af9c794-8bff-4316-9899-4565eb87dd54",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_112_Athena_Commando_CatBuglar_Shadow",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      },
+      {
+        "RewardId": "0af9c794-8bff-4316-9899-4565eb87dd54",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_114_Athena_Commando_F_Cat_Burglar_Shadow",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Travis Scott",
+      "SectionId": "98e9b066-5a2d-4f36-b671-cda781ada729"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "ac840ca0-9639-44f7-b61b-a53f3fdbf1af",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_103_Athena_Commando_M_Cyclone",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      },
+      {
+        "RewardId": "1582f938-4d13-4659-ba04-6d2400884b18",
+        "itemGrants": [
+          {
+            "templateId": "AthenaBackpack:BID_004_Cyclone",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      },
+      {
+        "RewardId": "6c70b3ce-580f-4993-acbd-7ada10a2fe38",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_Cyclone",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      },
+      {
+        "RewardId": "796d9d38-b7fc-48ce-b406-f168c57e931b",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_CycloneHeadBang",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "CASTAWAY JONESY",
+      "SectionId": "8489f290-03e5-43c9-a37d-6d9e096f9b0b"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "dedc832c-b1f1-4c4c-b7e0-efff70ab6ffb",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_129_Athena_Commando_M_Flare_Jonesy",
+            "quantity": 1
+          }
+        ],
+        "Cost": 800,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Dreamer",
+      "SectionId": "58ae2c71-1e2c-4fd1-928f-ca44bdcffe03"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "5089044d-1f0d-4213-99b3-3802de418f57",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_049_Athena_Commando_F_PlatinumBlue",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1800,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Black Knight",
+      "SectionId": "d525ac3a-c6cf-4088-93f7-fc17fdc4d2a9"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "f208e2b5-b4f4-4c99-8e5a-7a5315dcabb1",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_142_Athena_Commando_M_Medieval",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      },
+      {
+        "RewardId": "1c3594aa-87ee-4b74-8fe3-3aac50e1e9ba",
+        "itemGrants": [
+          {
+            "templateId": "AthenaBackpack:BID_002_Male",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "SypherPK",
+      "SectionId": "d53e82fa-1437-4b80-a638-727813b0c0b6"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "871f3c1b-6b32-44df-ad43-8d1e7718932b",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:Character_Headset",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Wild West",
+      "SectionId": "f189d09a-7966-48b0-b881-a5cce39241fa"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "8b08e557-5984-4e3c-8e68-b7d804d9f855",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_134_Athena_Commando_F_WildWest",
+            "quantity": 1
+          }
+        ],
+        "Cost": 800,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Walkin' Pretty",
+      "SectionId": "ec4c61db-c999-41ad-b95a-215fc5b0df16"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "5aaf01b9-dfec-4208-a17a-a41428c950f6",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_Marvelous",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Studded Axe",
+      "SectionId": "6d73540c-2ab0-4dc0-97d6-c0d67184bf35"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "01b85ab6-7676-42dd-b806-1534124bfab3",
+        "itemGrants": [
+          {
+            "templateId": "AthenaPickaxe:Pickaxe_ID_004_SharpDesser",
+            "quantity": 1
+          }
+        ],
+        "Cost": 800,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Bursting with joy.",
+      "SectionId": "aeba29d8-6edb-448c-b06f-654085ac96e7"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "f361d9a7-27eb-4f1a-a011-9e81af72788b",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_FuzzBall",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Right foot creek oo",
+      "SectionId": "a2e7ccc0-64ee-4022-9ab0-5717a772376a"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "d7a23eed-e927-469d-a9dd-c2f861b4ab84",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_Griddy",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Loserfruit",
+      "SectionId": "0f89c390-4043-43e0-ab44-ea8104e325e5"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "8b751261-b6b8-4a25-aa9f-e31724bf7da5",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_041_Athena_Commando_F_Loofah",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1200,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Lachlan",
+      "SectionId": "1ed1f73f-45f7-48e3-8546-a3695bd73c7d"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "895a0e7a-865d-4e25-bc1d-68cbcac425c5",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_035_Athena_Commando_M_LunchBox",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Recon Expert",
+      "SectionId": "858437ab-b738-47c6-b2eb-fe792aaa009c"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "bb21a93a-6885-4426-a3e0-5a4b25aaa232",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_098_Athena_Commando_F",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1200,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Skull Trooper",
+      "SectionId": "0619ad1b-afd1-45e0-a3ac-3d477a4ebfd1"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "43e78b96-4db0-450b-975b-61f2f0f811b1",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:CID_082_Athena_Commando_M_Halloween",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1800,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Galaxy",
+      "SectionId": "d65d006e-1069-443f-8de5-5b96684c320a"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "832a5475-e4bf-4ccd-91ee-293d657b2582",
+        "itemGrants": [
+          {
+            "templateId": "AthenaPickaxe:Pickaxe_ID_007_Celestial",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1200,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Brite Life",
+      "SectionId": "5430e066-daaa-4b8e-9a10-29e9bc1ef19e"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "7f12d59c-0a06-438f-aba9-edb355bc6aee",
+        "itemGrants": [
+          {
+            "templateId": "AthenaCharacter:Character_ShiverFlame_Ace",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1200,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      },
+      {
+        "RewardId": "5d87af08-3240-445f-a11f-7be120135587",
+        "itemGrants": [
+          {
+            "templateId": "AthenaPickaxe:Pickaxe_ID_026_Brite",
+            "quantity": 1
+          }
+        ],
+        "Cost": 1000,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Back on 74",
+      "SectionId": "f461a953-11cf-42e1-9763-835ae5ef86e3"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "789b3e21-1a15-4330-97d1-4d99fde7b7a6",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_Ringer",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  },
+  {
+    "SectionData": {
+      "SectionName": "Featured Emotes",
+      "SectionId": "380a1055-1ab4-43c4-b3e2-a88e8f215f1d"
+    },
+    "catalogEntries": [
+      {
+        "RewardId": "be594673-cf9e-42c9-a11a-4597da385b58",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_Affluent",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      },
+      {
+        "RewardId": "be594673-cf9e-42c9-a11a-4597da385b58",
+        "itemGrants": [
+          {
+            "templateId": "AthenaDance:EID_Affluent",
+            "quantity": 1
+          }
+        ],
+        "Cost": 500,
+        "Violator": {
+          "bShow": false,
+          "Text": "new!"
+        }
+      }
+    ]
+  }
+]

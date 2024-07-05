@@ -1,0 +1,21 @@
+{
+  "app": "fortress",
+  "serverDate" : "2024-05-06T17:42:38.913Z",
+  "overridePropertiesVersion": "unknown",
+  "cln": "27bd597",
+  "build": "83",
+  "moduleName": "Fortress-Core",
+  "buildDate": "2024-06-04T10:41:32.466Z",
+  "version": "2.20",
+  "branch": "Release-2.10",
+  "VersionName": "FortressLive",
+  "modules": {
+    "Fortress-Core": {
+      "cln": "27bd597",
+      "build": "1",
+      "buildDate": "2024-06-04T10:41:32.466Z",
+      "version": "1.0.0",
+      "branch": "Release-2.10"
+    }
+  }
+}

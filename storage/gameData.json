@@ -1,0 +1,11 @@
+{
+    "FortVersion": "++Fortnite+Release-1.0-CL-00000001",
+    "FortQAVersion": "++Fortnite+Release-1.0-CL-00000002",
+    "FortNotifications": {
+        "Frontend": {
+            "Message": "TBD",
+            "Header": "TBD",
+            "Display": true
+        }
+    }
+}

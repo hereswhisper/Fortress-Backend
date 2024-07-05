@@ -1,0 +1,46 @@
+{
+  "bandata": [],
+  "statistics": {
+    "Level": 1,
+    "XP": 0
+  },
+  "equipped": {
+    "Character": {
+      "Variant": 0,
+      "ItemDefinition": "AthenaCharacter:CID_001_Athena_Commando_F_Default"
+    },
+    "Backpack": {
+      "Variant": 0,
+      "ItemDefinition": "AthenaBackpack:BID_Empty"
+    },
+    "Glider": {
+      "Variant": 0,
+      "ItemDefinition": "AthenaGlider:BID_002_Male"
+    },
+    "Pickaxe": {
+      "Variant": 0,
+      "ItemDefinition": "AthenaPickaxe:Pickaxe_ID_001_Athena_Default"
+    },
+    "Emote": {
+      "Variant": 0,
+      "ItemDefinition": "BID_002_Male"
+    },
+    "LoadingScreen": {
+      "Variant": 0,
+      "ItemDefinition": "BID_002_Male"
+    }
+  },
+  "items": [
+    {
+      "TemplateId": "AthenaPickaxe:Pickaxe_ID_001_Athena_Default",
+      "Favorite": false,
+      "UnlockedStyles": []
+    },
+    {
+      "TemplateId": "AthenaBackpack:BID_Empty",
+      "Favorite": false,
+      "UnlockedStyles": []
+    }
+  ],
+  "accountId": "blank"
+}

@@ -1,0 +1,18 @@
+{
+  "channels": {
+    "client-events": {
+      "states": [
+        {
+          "validFrom": "2024-05-26T00:21:56.155Z",
+          "activeEvents": [
+            {
+              "eventType": "EventFlag.LobbySeason29",
+              "activeUntil": "2024-05-31T13:00:00.000Z",
+              "activeSince": "2024-03-01T14:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

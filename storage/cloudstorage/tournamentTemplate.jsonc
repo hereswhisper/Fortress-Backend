@@ -1,0 +1,59 @@
+{
+    "eventId": "s29_victorycash_solobr", // event ID ( event identifier ) ( MUST BE UNIQUE )
+    "regions": [ // regions just put global for now.
+      "GLOBAL"
+    ],
+    "platforms": [ // platforms, we only support windows computers atm.
+      "Windows"
+    ],
+    "displayDataId": "s29_victorycash_solobr", // basically this is the data name it'll fetch from the database
+    "announcementTime": "2024-03-08T10:00:00Z", // when should this be announced? ( use beginTime )
+    "beginTime": "2024-05-23T07:00:00Z", // when should we display this?
+    "endTime": "2024-05-26T12:00:00Z", // when should we stop displaying this?
+    "eventWindows": [ // event windows, only 1 for now. tells us when the comp event starts.
+      {
+        "eventWindowId": "s29_victorycash_solobr_Event1Round1",
+        "metadata": {
+          "RoundType": "Qualifiers"
+        },
+        "beginTime": "2024-05-26T07:00:00Z", // when should this comp evert start?
+        "endTime": "2024-05-26T09:00:00Z", // when should this comp event end?
+        "requireAllTokens": [],
+        "requireAnyTokens": [],
+        "requireNoneTokensCaller": [],
+        "associatedEventId": "s29_victorycash_solobr"
+      }
+    ],
+    "tournament_info": {
+      "title_color": "FFFFFF",
+      "loading_screen_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png", // loading screen image
+      "background_text_color": "161616",
+      "background_right_color": "001179",
+      "poster_back_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png", // poster back image
+      "_type": "Tournament Display Info",
+      "pin_earned_text": "Winner!",
+      "tournament_display_id": "s30_playstation_br",
+      "highlight_color": "F7FF00",
+      "schedule_info": "June 1, June 8, June 15",
+      "primary_color": "FFFFFF",
+      "flavor_description": "Compete against other PlayStation players in Battle Royale for an opportunity to earn a cash prize!", // flavor description that shows in the points UI
+      "poster_front_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png", // un-used image that would normally show in the compete tab
+      "short_format_title": "Solo Tournament",
+      "title_line_2": "Battle Royale", // title line 2
+      "title_line_1": "PlayStation Cup", // title line 1
+      "shadow_color": "161616",
+      "details_description": "You must reach Bronze in Ranked Battle Royale to unlock this tournament. This event occurs across multiple stages. There will be 2 Qualifiers for Battle Royale. The top 50 players at the end of each Battle Royale Qualifier will advance to the Battle Royale Finals. Players must be at least 13 years old (or such other age, if greater, as may be required in their country of residence), have MFA enabled and an account level of 15 or greater. For more details see: https://www.epicgames.com/fortnite/competitive/rules-library", // detailed description
+      "background_left_color": "00A9D3",
+      "long_format_title": "PlayStation Cup - Battle Royale", // long format title
+      "poster_fade_color": "0299BE",
+      "secondary_color": "161616",
+      "playlist_tile_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png", // playlist tile image
+      "base_color": "FFFFFF"
+    },
+    "cmsData": {
+      "title_line_1": "Solo", // title line 1, 1 and 2 are combined together.
+      "title_line_2": "Victory Cup", // title line 2, 1 and 2 are combined together.
+      "details_description": "Unlock this tournament by playing Ranked Battle Royale. You must be in Gold or higher in Battle Royale to unlock this tournament. This tournament occurs across two rounds, with the top players from Round 1 advancing to Round 2. EU - Top 11,500; NA: Top 9,000, BR, ASIA, ME - Top 1,250; OCE - Top 750. Players will win cash prizes for achieving a Victory Royale in Round 2. There will be no other placement prizes. Players must be at least 13 years old (or such other age, if greater, as may be required in their country of residence), have MFA enabled and an account level of 15 or greater. For more details see: www.epicgames.com/fortnite/competitive/news.", // detailed description
+      "poster_front_image": "2IA8IG02U50A89UG893J56GASJ58127518251823.png" // image that shows in the compete tab
+    }
+  }
